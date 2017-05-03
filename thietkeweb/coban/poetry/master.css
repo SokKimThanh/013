@@ -1,0 +1,47 @@
+body {
+    background-color: green;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.header {
+   color: white;
+    background-color: darkgreen;
+}
+
+.body {
+    background-color: lightgreen;
+}
+
+.footer {
+    background-color: darkgreen;
+    color: white;
+}
+
+.title {
+    color: blue;
+}
+
+.first {
+    color: yellow;
+}
+
+.next {
+    color: white;
+}
+
+.last {
+    color: orange;
+}
+
+.author {
+    color: white;
+}
